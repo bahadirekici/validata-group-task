@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "validata-task", "validata-task\validata-task.csproj", "{18B383DA-DF4F-4E45-AAD3-89AF0791CDD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18B383DA-DF4F-4E45-AAD3-89AF0791CDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B383DA-DF4F-4E45-AAD3-89AF0791CDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B383DA-DF4F-4E45-AAD3-89AF0791CDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B383DA-DF4F-4E45-AAD3-89AF0791CDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8765AFD1-FA7C-422F-BA8F-667A39A03BD6}
+	EndGlobalSection
+EndGlobal
